@@ -7,10 +7,10 @@ This is an attempt to present IMDb ratings of the favorite Tv Show, 'Breaking Ba
 - Package used for scraping from IMDb: [IMDbPY](https://imdbpy.readthedocs.io/en/latest/index.html)
 - Packages used for dataset management and plotting: Numpy, Matplotlib and Pandas.
 
-### Outcome
+## Outcome
 
-1. Graph with colorbar
+### 1. Graph with colorbar
 ![Graph with colorbar](BreakingBadHD.jpg)
 
-2. Graph without colorbar
+### 2. Graph without colorbar
 ![Graph without colorbar](BreakingBadHD-noclbr.jpg)
